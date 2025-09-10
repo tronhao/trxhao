@@ -61,7 +61,7 @@ USDT钱包靓号生成器GPU,GPU波场靓号源码,TRON钱包靓号生成,高仿
 ### 实际运作图
 	6A 7A 一会儿就出了
 	我的电脑2060 1秒135MH =（1亿3500万个地址 / 每秒）
-<img src="https://github.com/smalpony/gpu/blob/main/gpu2.png">
+<img src="https://github.com/tronhao/trxhao/blob/main/gpu2.png">
  
 
 
