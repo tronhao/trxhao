@@ -4,6 +4,9 @@ USDT钱包靓号生成器GPU,GPU波场靓号源码,TRON钱包靓号生成,高仿
 ### 作者
 电报作者：<a href="https://t.me/tudou">@tudou</a>  新币网络 二次优化编译 担保就找新币 
 
+最新版本
+新版本移步到：<a href="https://github.com/tronhao/tuzitrx">TRC20靓号生成器</a>  全网最快跑靓号生成器没有之一 遥遥领先 遥遥领先 遥遥领先
+
 ## 功能特性
 - 🚀 并行加速：多线程与（可选）GPU CUDA/OpenCL 内核  
 - 🎯 多样匹配：前缀/后缀、连续字符、通配/正则（可选）  
